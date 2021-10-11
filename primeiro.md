@@ -5,6 +5,7 @@
 - Formatando documento
 - Trabalhando com listas de itens
 - Inserindo trechos de código
+- Inserindo check lists
 
 ## Aprendendo ramos
 
