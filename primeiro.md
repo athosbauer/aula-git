@@ -13,3 +13,10 @@
 3. Mesclando ramos
 
 ## Código na linguagem C
+
+```c
+int main (void){
+    printf("Olá Athos");
+    return 0;
+}
+```
